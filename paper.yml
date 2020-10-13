@@ -111,7 +111,7 @@ world-settings:
     skip-entity-ticking-in-chunks-scheduled-for-unload: true
     armor-stands-do-collision-entity-lookups: true
     keep-spawn-loaded-range: 8
-    auto-save-interval: -1
+    auto-save-interval: 6000
     disable-thunder: false
     skeleton-horse-thunder-spawn-chance: 0.01
     disable-ice-and-snow: false
